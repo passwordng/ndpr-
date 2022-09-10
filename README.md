@@ -12,7 +12,8 @@
  ![Alt Text](https://user-images.githubusercontent.com/15043997/189502936-35adf33a-8f2c-4d75-967a-978895658f51.png)
 ## Road To Compliance
  ![Alt Text](https://user-images.githubusercontent.com/15043997/189503191-f0089e7d-beba-49cb-8a65-af834ce453d2.png)
-
+## NDPR Features Impacting ISMS
+ ![Alt Text](https://user-images.githubusercontent.com/15043997/189503436-d44ba698-8413-42bd-8f98-f2019722e980.png")
 
 
 
