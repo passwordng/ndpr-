@@ -16,6 +16,9 @@
  ![Alt Text](https://user-images.githubusercontent.com/15043997/189503436-d44ba698-8413-42bd-8f98-f2019722e980.png)
 ## Top Management/Board Role 
  ![Alt Text](https://user-images.githubusercontent.com/15043997/189503499-1316f946-4a85-40ab-9914-a2067b7e1825.png)
+##
+ ![Alt Text](https://user-images.githubusercontent.com/15043997/189503547-8dfb040b-3ff3-4d41-ba77-afea25e78a42.png)
+
 
 
 
