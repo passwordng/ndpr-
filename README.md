@@ -9,4 +9,7 @@
 ## Non Compliance and its Effect on Business
 <img width="908" alt="image" src="https://user-images.githubusercontent.com/15043997/189502834-cf8907e5-828a-4e10-aa69-e44db99fa78e.png">
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/15043997/189502936-35adf33a-8f2c-4d75-967a-978895658f51.png">
+
+
 
